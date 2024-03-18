@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\RestaurantAeg.Data\RestaurantAeg.Data.csproj" />
+    <ProjectReference Include="..\RestaurantAeg.Services\RestaurantAeg.Services.csproj" />
   </ItemGroup>
 
 </Project>
